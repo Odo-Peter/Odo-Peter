@@ -1,8 +1,7 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUa4Vp0NYrJrfufXTkDzhghz2zGUQIPW-P6Q&usqp=CAU)](https://github.com/Odo-Peter))
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://github.com/Odo-Peter)
 <h1 align="center">Hi 👋🏾, I'm Odo Peter Ebere</h1>
 <h3 align="center">A Software Engineering Student and a Fullstack Dev from Nigeria</h3>
-<img align="right" alt="coding-gif" wid
-400 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIXiA955nXXUIyfWiijcoMvGCbF5jv6S4BA&usqp=CAU"/>
+<img align="right" alt="coding-gif" width=400 src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odo-peter&label=Profile%20views&color=0e75b6&style=flat" alt="odo-peter" /> </p>
 
