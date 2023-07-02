@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/odo_peter_ebere" target="blank"><img src="https://img.shields.io/twitter/follow/odo_peter_ebere?logo=twitter&style=for-the-badge" alt="odo_peter_ebere" /></a> </p>
 
-- 🔭 I’m currently working on **iTube**
+- 🔭 I’m currently working on **SAY_IT, an all round blog app**
 
-- 🌱 I’m currently learning **Linux, C and advance React**
+- 🌱 I’m currently learning **Linux, C, Python and advance React**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
