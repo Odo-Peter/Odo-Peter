@@ -1,21 +1,19 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://github.com/Odo-Peter)
-<h1 align="center">Hi 👋🏾, I'm Odo Peter Ebere</h1>
-<h3 align="center">A Software Engineering Student at ALX and a Developer from Nigeria</h3>
+<h1 align="center">Hi 👋🏾, I'm Peter Odo</h1>
+<h3 align="center">A Software Engineer from Nigeria</h3>
 <img align="right" alt="coding-gif" width=400 src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odo-peter&label=Profile%20views&color=0e75b6&style=flat" alt="odo-peter" /> </p>
 
 <p align="left"> <a href="https://twitter.com/odo_peter_ebere" target="blank"><img src="https://img.shields.io/twitter/follow/odo_peter_ebere?logo=twitter&style=for-the-badge" alt="odo_peter_ebere" /></a> </p>
 
-- 🔭 I’m currently working on **WORDS, an all round blog app**
-
-- 🌱 I’m currently learning **Linux, C, Python and advance React**
+- 🌱 I’m currently learning **Linux, Rust, Python and TypeScript**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **odopeter33@gmail.com**
 
-- ⚡ Fun fact **At the end of the day, its you and your computer screen.**
+- ⚡ Fun fact **CAPTCHA means... Completely Automated Public Turing Test to tell Computers and Humans Apart.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
