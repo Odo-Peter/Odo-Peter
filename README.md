@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **CAPTCHA means... Completely Automated Public Turing Test to tell Computers and Humans Apart.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect:</h3>
 <p align="left">
 <a href="https://twitter.com/odo_peter_ebere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="odo_peter_ebere" height="30" width="40" /></a>
 </p>
